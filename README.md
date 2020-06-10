@@ -1,2 +1,2 @@
 # workingFile
-This reposiry are used for Golang practice and algorithm practice
+This repository are used for Golang practice and algorithm practice
